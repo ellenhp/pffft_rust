@@ -1,0 +1,5 @@
+You can cross-test this library using cross.
+
+https://github.com/rust-embedded/cross
+
+This is useful to ensure that everything works on ARM64.

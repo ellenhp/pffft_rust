@@ -1,0 +1,12 @@
+[package]
+name = "pffft_rust"
+version = "0.1.0"
+authors = ["Ellen Poe <ellen.h.poe@gmail.com>"]
+edition = "2018"
+license-file = "LICENSE.txt"
+keywords = ["fft", "pffft"]
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.54.0"
+cc = "1.0.55"
