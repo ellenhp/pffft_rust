@@ -5,6 +5,8 @@ authors = ["Ellen Poe <ellen.h.poe@gmail.com>"]
 edition = "2018"
 license-file = "LICENSE.txt"
 keywords = ["fft", "pffft"]
+description = "A bindgen-based wrapper around PFFFT (Pretty Fast Fast Fourier Transform)."
+
 [dependencies]
 
 [build-dependencies]
